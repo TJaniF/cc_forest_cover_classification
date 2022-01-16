@@ -104,11 +104,11 @@ _____________
 
 ### Packages used
 - pandas
-- numpy
+- NumPy
 - seaborn
-- matplotlib
+- Matplotlib
 - scikit-learn
-- tensorflow
+- TensorFlow
 
 
 ____________

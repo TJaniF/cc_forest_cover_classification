@@ -21,17 +21,17 @@ ____________
 
 This dataset was already cleaned, containing no null-values or artifacts.
 
-There were 10 continuous features provided:
-    - Elevation
-    - Aspect
-    - Slope
-    - Horizontal_Distance_To_Hydrology
-    - Vertical_Distance_To_Hydrology
-    - Horizontal_Distance_To_Roadways
-    - Hillshade_9am
-    - Hillshade_Noon
-    - Hillshade_3pm
-    - Horizontal_Distance_To_Fire_Points
+There were 10 continuous features provided: 
+- Elevation
+- Aspect
+- Slope
+- Horizontal_Distance_To_Hydrology
+- Vertical_Distance_To_Hydrology
+- Horizontal_Distance_To_Roadways
+- Hillshade_9am
+- Hillshade_Noon
+- Hillshade_3pm
+- Horizontal_Distance_To_Fire_Points
 
 Figure 1 shows the distribution of these 10 features in a random sample of 1000 observations of the data provided. The only feature that appears to distinguish the features somewhat on its own seems to be elevation with cover type 7 and type 1 being mostly found at higher elevation and cover type 3 at lower elevation. 
 

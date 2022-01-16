@@ -87,7 +87,7 @@ On the test set the model scored an overall accuracy of 0.91.
 
 The confusion matrix standardized per true class can be seen in figure 7. Detailled scores for all classes are shown in the classfication report in figure 8.
 
-<p align="center"><img src="/visuals/confusion_matrix_plot.png"></p>  
+<p align="center"><img src="/visuals/conf_matrix_plot.png"></p>  
 <p align="center"><i>Figure 7. Confusion Matrix standardized by true class.</i></p>
 
 <p align="center"><img src="/visuals/classification_report.png"></p>  

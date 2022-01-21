@@ -2,7 +2,7 @@
 
 This repository contains my solution to the forest cover classification project, which is the final portfolio project in Codecademy's course "Build Deep Learning Models with TensorFlow".
 
-The Data was provided from Codecademy on geological aspects of the areas studied (obtained from the US Geological Survey and US Forest Service (USFS)), one observation describing 30x30 meter cell of forest. Labelling was determined from the USFS Region 2 Resource Information System data. 
+The Data was provided from Codecademy on geological aspects of the areas studied (obtained from the US Geological Survey and US Forest Service (USFS)), one observation describing 30x30 meter cell of forest. Labelling was determined from the USFS Region 2 Resource Information System data. It can be downloaded <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/">here </a>.
 
 Covertypes (Classes): 
 - Spruce/Fir
